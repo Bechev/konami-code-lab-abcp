@@ -19,4 +19,4 @@ function init() {
   }
 }
 
-document.body.addEventListener('keydown', onKeyDownHandler('input'))
+document.body.addEventListener('keydown', onKeyDownHandler);
